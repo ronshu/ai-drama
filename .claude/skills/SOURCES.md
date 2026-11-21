@@ -16,3 +16,13 @@
 | 10 | Stageshow (Benji Taylor) | `stageshow` | https://github.com/benjitaylor/skills |
 
 원문 조언: 전부 동시에 쓰지 말고 2~3개만 골라 쓸 것 (글쓴이는 Impeccable + frontend-design 사용).
+
+## YouTube 리서치 스킬 (TubeLab)
+
+추천 글: https://x.com/TubeLabNiches/status/2123846519317311776 (2026-11-21 설치)
+저장소: https://github.com/TubeLabHQ/youtube-research-skills (v0.16.0)
+
+- 스킬 17개: `tubelab-mcp`, `niche-finder`, `niche-bending`, `niche-watchlist`, `niche-validator`, `trend-report`, `script-breakdown`, `title-formulas`, `thumbnail-concepts`, `video-ideation`, `comment-mining`, `reverse-engineer-channel`, `reverse-engineer-niche`, `roast-channel`, `audit-channel-risk`, `revenue-maxxing`, `sponsorship-prospecting`
+- 에이전트 6개: `.claude/agents/` (niche-scout, validator, trend-analyst, script-analyst, packaging-team, monetization-team)
+- 플레이북: `.claude/playbooks/tubelab/`
+- MCP: `.mcp.json`의 `tubelab` (https://public-api.tubelab.net/mcp, TubeLab 계정 OAuth 필요, Starter 플랜 이상)
